@@ -17,7 +17,7 @@ It's very easy. Don't need to be an expert in coding. Follow the below steps you
 Example:
 
 ```
-### Tarun Singh
+### Manish Gupta
 - Photo: https://your_image_url
 - Location: India
 - Github: https://github.com/tarunsinghofficial
@@ -28,7 +28,7 @@ Example:
 8. Star this repository!
 
 ### Show some love 😄 
-<a href="https://github.com/tarunsinghofficial" aria-label="Follow @tarunsinghofficial on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@tarunsinghofficial-green?style=for-the-badge"  />
+<a href="https://github.com/manishguptaofficial" aria-label="Follow @manishguptaofficial on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@tarunsinghofficial-green?style=for-the-badge"  />
 </a>
 <br>
 ## What is Hacktoberfest?
